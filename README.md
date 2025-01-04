@@ -16,6 +16,9 @@ docker-compose build --up
 
 And then open http://localhost:3000/quiz/ in postman to start with the application .Also refer to the quiz-app/quiz-app.postman_collection.json file to access the set of REST APIs.
 
+# to run the testcases please run below
+npm test
+
 # below are request body sample for all the set of APIs.
 
 # to create the quiz
